@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/SneakersCollection/obj
+/src/SneakersCollection.Infrastructure/obj
+/src/SneakersCollection.Models/obj
+/src/SneakersColletion.Domain/obj
+/src/SneakersCollection/bin/Debug/net5.0
+/src/SneakersColletion.Domain/bin/Debug/net5.0
+/src/SneakersCollection.Infrastructure/bin/Debug/net5.0
+/test/SneakersCollection.Test/bin/Debug/net5.0
+/test/SneakersCollection.Test/obj
